@@ -1,6 +1,6 @@
 cask "mods" do
-  version "1.4"
-  sha256 "a4c4a0bbea224b1944a9367416ac929b3ce83f1261e747ee60e173fdb137d64d"
+  version "1.4.1"
+  sha256 "c490a956021bee269026d2410953dfbddfc3304756530da6030fdab4984842c3"
 
   url "https://github.com/kotamorishi/mods/releases/download/v#{version}/Mods-#{version}.zip"
   name "Mods"
